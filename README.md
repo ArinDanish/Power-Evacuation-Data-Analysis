@@ -15,3 +15,5 @@ PPA Signed
 Future Space available for bays
       
 Data Source: Central Transmission Utility of India Ltd.
+
+![Screenshot](ctu.jpg)
