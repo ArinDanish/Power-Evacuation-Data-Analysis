@@ -16,4 +16,5 @@ Future Space available for bays
       
 Data Source: Central Transmission Utility of India Ltd.
 
-![Screenshot](ctu.jpg)
+https://user-images.githubusercontent.com/94790472/159127450-4f334de6-e9c3-483b-908f-f3b9387991a7.mp4
+
